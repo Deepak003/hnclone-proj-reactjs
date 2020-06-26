@@ -9,8 +9,7 @@
     "start": "node-sass src -o src && NODE_ENV=development webpack-dev-server --open --config webpack.dev.js",
     "build": "webpack --config webpack.prod.js"
   },
-  "author": "Predrag Davidovic",
-  "license": "ISC",
+  "author": "DEEPAK TIWARI",
   "devDependencies": {
     "@babel/core": "^7.9.6",
     "@babel/preset-env": "^7.9.6",
