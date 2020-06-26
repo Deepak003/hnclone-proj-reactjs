@@ -7,11 +7,14 @@ Project Deployed URL : https://deepak-hnclone-sapient-proj.netlify.app/
 
 I replicated and used API of https://hn.algolia.com/.
 
-Preview :
+##### Preview :
 ![hacker-news](https://github.com/Deepak003/hnclone-sapient-proj-reactjs/blob/master/Hacker-News-Assignment.PNG)
 
-Google Lighthouse Audit Report :
+##### Google Lighthouse Audit Report :
 ![hacker-news-Google-LHA-Report](https://github.com/Deepak003/hnclone-sapient-proj-reactjs/blob/master/hnclone-prog-LHA-Report.PNG)
+
+##### Project Architecture with Redux + SSR + Routing + Rendering :
+![hacker-news-architecture](https://github.com/Deepak003/hnclone-sapient-proj-reactjs/blob/master/arch-overview.png)
 
 ## Features
 
