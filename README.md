@@ -1,6 +1,9 @@
 # hacker-news in React
 By DEEPAK TIWARI , Full Stack Application Architect & Director -UI Practices
 
+##### Key Features 
+ReactJS-Redux ,100% Google Lighthouse Score , Webpack optimized build for Prod & Dev , SSR , HMR , Lazy Loading , Neat Architecture , WebSockets for Perfromance , Minified bundling & packing.
+
 Project Submitted at : https://github.com/Deepak003/hnclone-sapient-proj-reactjs/
 
 Project Deployed URL : https://deepak-hnclone-sapient-proj.netlify.app/
