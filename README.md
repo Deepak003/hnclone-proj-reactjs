@@ -1,7 +1,9 @@
 # hacker-news in React
 By DEEPAK TIWARI , Full Stack Application Architect & Director -UI Practices
 
-Hacker-news with search: https://github.com/Deepak003/hnclone-sapient-proj-reactjs/
+Project Submitted at : https://github.com/Deepak003/hnclone-sapient-proj-reactjs/
+
+Project Deployed URL : https://deepak-hnclone-sapient-proj.netlify.app/
 
 I replicated and used API of https://hn.algolia.com/.
 
