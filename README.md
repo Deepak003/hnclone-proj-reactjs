@@ -9,6 +9,8 @@ I replicated and used API of https://hn.algolia.com/.
 
 ![hacker-news](https://github.com/Deepak003/hnclone-sapient-proj-reactjs/blob/master/Hacker-News-Assignment.PNG)
 
+![hacker-news-Google-LHA-Report](https://github.com/Deepak003/hnclone-sapient-proj-reactjs/blob/master/hnclone-prog-LHA-Report.PNG)
+
 ## Features
 
 * Display different types of lists
