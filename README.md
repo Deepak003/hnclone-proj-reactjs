@@ -2,7 +2,7 @@
 By DEEPAK TIWARI , Full Stack Application Architect & Director -UI Practices
 
 ## Key Features 
-ReactJS-Redux ,100% Google Lighthouse Score , Webpack optimized build for Prod & Dev , SSR , HMR ( Hot Module Reloaing ) ,WDS ( Hot Code Patching Reload ) , Lazy Loading , Neat Architecture , WebSockets for Perfromance , Minified bundling & packing , elinting configuartion , Jenkins Integration , Optimized Images.
+ReactJS-Redux ,Google Charts, UpVote/DownVote-local api storage,100% Google Lighthouse Score , Webpack optimized build for Prod & Dev , SSR , HMR ( Hot Module Reloaing ) ,WDS ( Hot Code Patching Reload ) , Lazy Loading , Neat Architecture , WebSockets for Perfromance , Minified bundling & packing , elinting configuartion , Jenkins Integration , Optimized Images.
 
 Project Submitted at : https://github.com/Deepak003/hnclone-sapient-proj-reactjs/
 
@@ -29,6 +29,8 @@ I replicated and used API of https://hn.algolia.com/.
 ## Features
 
 * Display different types of lists
+* Google Charts
+* UpVote & DownVote and corresponding graph changes
 * Search of item basis Popularity
 * Searched words are highlighted
 * Search of item basis Date
