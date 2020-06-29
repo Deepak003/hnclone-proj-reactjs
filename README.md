@@ -2,7 +2,7 @@
 By DEEPAK TIWARI , Full Stack Application Architect & Director -UI Practices
 
 ## Features
-
+* I replicated and used API of https://hn.algolia.com/.
 * Display different types of lists
 * Google Charts
 * UpVote & DownVote and corresponding graph changes
@@ -26,11 +26,16 @@ By DEEPAK TIWARI , Full Stack Application Architect & Director -UI Practices
 * Redux can be replaced with Context-API's . Code has been written in such a manner that we can easily do so.
 * For stability purpose , I have used Redux architecture with Websockets , Service Workers & SSR.
 
-Project Submitted at : https://github.com/Deepak003/hnclone-sapient-proj-reactjs/
+Project Source Code : https://github.com/Deepak003/hnclone-sapient-proj-reactjs/
 
 Project Deployed URL : https://deepak-hnclone-sapient-proj.netlify.app/
 
-I replicated and used API of https://hn.algolia.com/.
+##### Another version of app using React-Hooks + PWA +SSR + Infinie Scrolling + React-Memos + 100% Google LA Score is deployed at :
+https://hn-hooks-pwa-infinitescroll-seo-deepak.netlify.app
+
+This was done basis the remarks given by Interviewer. I implemented the same in a different project and implemented all functionalities in it.
+Source Code : https://github.com/Deepak003/hnclone-react-hooks-pwa-test
+
 
 ##### Preview :
 ![hacker-news](https://github.com/Deepak003/hnclone-sapient-proj-reactjs/blob/master/hacker-news-screenshot.png)
