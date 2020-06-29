@@ -12,6 +12,9 @@ I replicated and used API of https://hn.algolia.com/.
 
 ##### Preview :
 ![hacker-news](https://github.com/Deepak003/hnclone-sapient-proj-reactjs/blob/master/Hacker-News-Assignment.PNG)
+![hacker-news](https://github.com/Deepak003/hnclone-sapient-proj-reactjs/blob/master/Capture-upvote.PNG)
+![hacker-news](https://github.com/Deepak003/hnclone-sapient-proj-reactjs/blob/master/Capture-downvote.PNG)
+![hacker-news](https://github.com/Deepak003/hnclone-sapient-proj-reactjs/blob/master/Capture-graph.PNG)
 
 ##### Google Lighthouse Audit Report :
 ![hacker-news-Google-LHA-Report](https://github.com/Deepak003/hnclone-sapient-proj-reactjs/blob/master/hnclone-prog-LHA-Report.PNG)
