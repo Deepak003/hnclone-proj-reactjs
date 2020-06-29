@@ -1,31 +1,6 @@
 # hacker-news in React
 By DEEPAK TIWARI , Full Stack Application Architect & Director -UI Practices
 
-## Key Features 
-ReactJS-Redux ,Google Charts, UpVote/DownVote-local api storage,100% Google Lighthouse Score , Webpack optimized build for Prod & Dev , SSR , HMR ( Hot Module Reloaing ) ,WDS ( Hot Code Patching Reload ) , Lazy Loading , Neat Architecture , WebSockets for Perfromance , Minified bundling & packing , elinting configuartion , Jenkins Integration , Optimized Images.
-
-Project Submitted at : https://github.com/Deepak003/hnclone-sapient-proj-reactjs/
-
-Project Deployed URL : https://deepak-hnclone-sapient-proj.netlify.app/
-
-I replicated and used API of https://hn.algolia.com/.
-
-##### Preview :
-![hacker-news](https://github.com/Deepak003/hnclone-sapient-proj-reactjs/blob/master/hacker-news-screenshot.png)
-
-##### Preview :UpVote & DownVote
-![hacker-news](https://github.com/Deepak003/hnclone-sapient-proj-reactjs/blob/master/Capture-upvote.PNG)
-![hacker-news](https://github.com/Deepak003/hnclone-sapient-proj-reactjs/blob/master/Capture-downvote.PNG)
-
-##### Preview :Graph
-![hacker-news](https://github.com/Deepak003/hnclone-sapient-proj-reactjs/blob/master/Capture-graph.PNG)
-
-##### Google Lighthouse Audit Report :
-![hacker-news-Google-LHA-Report](https://github.com/Deepak003/hnclone-sapient-proj-reactjs/blob/master/hnclone-perf-LHA-Report.PNG)
-
-##### Project Architecture with Redux + SSR + Routing + Rendering :
-![hacker-news-architecture](https://github.com/Deepak003/hnclone-sapient-proj-reactjs/blob/master/arch-overview.png)
-
 ## Features
 
 * Display different types of lists
@@ -50,6 +25,28 @@ I replicated and used API of https://hn.algolia.com/.
 * Infinity Scrolling is implemented using react-virtualized.
 * Redux can be replaced with Context-API's . Code has been written in such a manner that we can easily do so.
 * For stability purpose , I have used Redux architecture with Websockets , Service Workers & SSR.
+
+Project Submitted at : https://github.com/Deepak003/hnclone-sapient-proj-reactjs/
+
+Project Deployed URL : https://deepak-hnclone-sapient-proj.netlify.app/
+
+I replicated and used API of https://hn.algolia.com/.
+
+##### Preview :
+![hacker-news](https://github.com/Deepak003/hnclone-sapient-proj-reactjs/blob/master/hacker-news-screenshot.png)
+
+##### Preview :UpVote & DownVote
+![hacker-news](https://github.com/Deepak003/hnclone-sapient-proj-reactjs/blob/master/Capture-upvote.PNG)
+![hacker-news](https://github.com/Deepak003/hnclone-sapient-proj-reactjs/blob/master/Capture-downvote.PNG)
+
+##### Preview :Graph
+![hacker-news](https://github.com/Deepak003/hnclone-sapient-proj-reactjs/blob/master/Capture-graph.PNG)
+
+##### Google Lighthouse Audit Report :
+![hacker-news-Google-LHA-Report](https://github.com/Deepak003/hnclone-sapient-proj-reactjs/blob/master/hnclone-perf-LHA-Report.PNG)
+
+##### Project Architecture with Redux + SSR + Routing + Rendering :
+![hacker-news-architecture](https://github.com/Deepak003/hnclone-sapient-proj-reactjs/blob/master/arch-overview.png)
 
 ## Development and Build Process
 
