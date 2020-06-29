@@ -21,7 +21,7 @@ I replicated and used API of https://hn.algolia.com/.
 ![hacker-news](https://github.com/Deepak003/hnclone-sapient-proj-reactjs/blob/master/Capture-graph.PNG)
 
 ##### Google Lighthouse Audit Report :
-![hacker-news-Google-LHA-Report](https://github.com/Deepak003/hnclone-sapient-proj-reactjs/blob/master/hnclone-prog-LHA-Report.PNG)
+![hacker-news-Google-LHA-Report](https://github.com/Deepak003/hnclone-sapient-proj-reactjs/blob/master/hnclone-perf-LHA-Report.PNG)
 
 ##### Project Architecture with Redux + SSR + Routing + Rendering :
 ![hacker-news-architecture](https://github.com/Deepak003/hnclone-sapient-proj-reactjs/blob/master/arch-overview.png)
