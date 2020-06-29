@@ -11,7 +11,7 @@ Project Deployed URL : https://deepak-hnclone-sapient-proj.netlify.app/
 I replicated and used API of https://hn.algolia.com/.
 
 ##### Preview :
-![hacker-news](https://github.com/Deepak003/hnclone-sapient-proj-reactjs/blob/master/Hacker-News-Assignment.PNG)
+![hacker-news](https://github.com/Deepak003/hnclone-sapient-proj-reactjs/blob/master/hacker-news-screenshot.png)
 
 ##### Preview :UpVote & DownVote
 ![hacker-news](https://github.com/Deepak003/hnclone-sapient-proj-reactjs/blob/master/Capture-upvote.PNG)
