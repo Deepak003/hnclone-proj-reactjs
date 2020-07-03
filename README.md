@@ -19,7 +19,7 @@ I replicated and used API of https://hn.algolia.com/.
 ##### Project Architecture with Redux + SSR + Routing + Rendering :
 ![hacker-news-architecture](https://github.com/Deepak003/hnclone-sapient-proj-reactjs/blob/master/arch-overview.png)
 
-## Features
+## Features Implemented
 
 * Display different types of lists
 * Search of item basis Popularity
@@ -50,7 +50,4 @@ To start the development server, run `npm i && npm start` and have at the `src/`
 | ------- | ----------- |
 | `npm start or yarn start` | Starts development server with hot reloading. |
 | `npm run build or yarn build` | Runs development build. Outputs files to `/build`. |
-
-## License
-
-Copyright | Sapient India
+ik
