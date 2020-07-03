@@ -36,9 +36,9 @@ function paginationStructure(pages, currentPage, nbPages) {
         }
         const showOnlyLast5Pages = fromFirstToCurrentPages.slice(-6)
         pagination = [...showOnlyLast5Pages, ...currentPagePlusPages];
-        currentPage !== 1 ? pagination.unshift('<<') : pagination 
-        currentPage !== maximalNumberOfPages  ? pagination.push('>>') : pagination 
-    } 
+        currentPage !== 1 ? pagination.unshift('<<') : pagination
+        currentPage !== maximalNumberOfPages  ? pagination.push('>>') : pagination
+    }
     return pagination;
 }
 
@@ -59,9 +59,12 @@ function Pagination({isFetching, currentPage, onPageChange, nbPages, showSetting
     const visiblePages = paginationStructure(pages, currentPage, nbPages);
     const pagination = !showSettings ? renderPagination(visiblePages, currentPage, onPageChange, nbPages) : "";
     return (
-        <div className="pagination">
-            {!isFetching ?  pagination : ""}
-        </div>
+        <div>
+          <div className="pagination">
+              {!isFetching ?  pagination : ""}
+          </div>
+          <div className="pagination_line"></div>
+        </div>  
     )
 }
 

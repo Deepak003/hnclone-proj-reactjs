@@ -12,9 +12,6 @@ import {
 } from './search.js';
 
 export function fetchAllStoriesIdsAsync({searchType="comment", searchBy= "", searchFor="", currentPage = 1,hitsperpage=13}) {
-
-    //const searchForValue = sortByTime(searchFor)
-        //fetch(`${PATH_BASE}${PATH_SEARCH}?${PARAM_SEARCH}${searchTerm}&${PARAM_PAGE}${page}&${PARAM_HPP}${DEFAULT_HPP}`)
     const api = `https://hn.algolia.com/api/v1/search?query=${searchBy}&page=${currentPage}&hitsPerPage=${hitsperpage}`;
     return function(dispatch) {
         dispatch(fetchStart())
@@ -27,7 +24,6 @@ export function fetchAllStoriesIdsAsync({searchType="comment", searchBy= "", sea
 }
 
 export function fetchOnSearchAsync({searchType, value, currentPage = 1, hitsperpage}) {
-
     const api = `https://hn.algolia.com/api/v1/search?query=${value}&page=${currentPage}&hitsPerPage=${hitsperpage}`
     return function(dispatch){
         dispatch(searchStart())

@@ -22,3 +22,7 @@
       border: 1px solid #ff742b; }
   .pagination_item:hover {
     cursor: pointer; }
+  .pagination_line {
+    border-top: 3px solid orange;
+    flex-grow: 1;
+    margin: 0 10px; }
