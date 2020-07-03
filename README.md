@@ -1,11 +1,23 @@
 # hacker-news in React
 By DEEPAK TIWARI , Full Stack Application Architect & Director -UI Practices
 
-Hacker-news with search: https://github.com/Deepak003/hnclone-sapient-proj-reactjs/
+## Key Features 
+ReactJS-Redux ,100% Google Lighthouse Score , Webpack optimized build for Prod & Dev , SSR , HMR ( Hot Module Reloaing ) ,WDS ( Hot Code Patching Reload ) , Lazy Loading , Neat Architecture , WebSockets for Perfromance , Minified bundling & packing , elinting configuartion , Jenkins Integration , Optimized Images.
+
+Project Submitted at : https://github.com/Deepak003/hnclone-sapient-proj-reactjs/
+
+Project Deployed URL : https://deepak-hnclone-sapient-proj.netlify.app/
 
 I replicated and used API of https://hn.algolia.com/.
 
+##### Preview :
 ![hacker-news](https://github.com/Deepak003/hnclone-sapient-proj-reactjs/blob/master/Hacker-News-Assignment.PNG)
+
+##### Google Lighthouse Audit Report :
+![hacker-news-Google-LHA-Report](https://github.com/Deepak003/hnclone-sapient-proj-reactjs/blob/master/hnclone-prog-LHA-Report.PNG)
+
+##### Project Architecture with Redux + SSR + Routing + Rendering :
+![hacker-news-architecture](https://github.com/Deepak003/hnclone-sapient-proj-reactjs/blob/master/arch-overview.png)
 
 ## Features
 
@@ -22,7 +34,7 @@ I replicated and used API of https://hn.algolia.com/.
 * Contains proper dev and prod builds . Production build is optimized and uses minification,obfuscation and svg
 * Proper build and bundling tools are used like webpack , yarn.
 * React Hooks is also used for implementing infiniteScrolling. However as of now for submission , I have converted to Paggination.
-* Google Lighthouse Audit score is > 95% for Performance & Best Practices.
+* Google Lighthouse Audit score is 100% for Performance & Best Practices.
 * PWA is implemented
 * SSR is implemented using react-render-ssr plugin and HtmlWebpackPlugin
 * Charts : WIP | Google-Charts library is incorporated ,however as of now due to some error , the view has been made hidden to prevent any UI crash
